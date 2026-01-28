@@ -15,7 +15,7 @@ Expert writing council with 6 advisors for clarity, persuasion, storytelling, an
 
 ### Claude Code
 ```bash
-/plugin add https://github.com/TOPAiiN/writing-communication-council
+/plugin add https://github.com/antonioc-cl/writing-communication-council
 ```
 
 ### Claude.ai
