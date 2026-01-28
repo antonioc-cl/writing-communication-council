@@ -13,6 +13,11 @@ Expert writing council with 6 advisors for clarity, persuasion, storytelling, an
 
 ## Installation
 
+### npx skills add (recommended)
+```bash
+npx skills add antonioc-cl/writing-communication-council
+```
+
 ### Claude Code
 ```bash
 /plugin add https://github.com/antonioc-cl/writing-communication-council
